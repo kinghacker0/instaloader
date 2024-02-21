@@ -11,7 +11,7 @@ git clone https://github.com/kinghacker0/instaloader
 cd instaloader && apt install instaloader -y
 ```
 ```
-bash instaloader.py
+bash instaloader.sh
 ```
 ## Usage
 
