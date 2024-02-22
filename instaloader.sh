@@ -37,7 +37,7 @@ display_options() {
 # Function to download profile pictures
 download_profile_pictures() {
     read -p "Enter the username: " username
-    instaloader --no-videos --no-metadata-json --no-captions --no-compress-json profile $username
+    instaloader --no-videos --no-metadata-json --no-captions --no-compress-json --no-posts $username
 }
 
 # Function to download all posts by a user
