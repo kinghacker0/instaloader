@@ -14,7 +14,7 @@ cd instaloader && apt install instaloader -y
 bash instaloader.sh
 ```
 ## Usage
-
+![Image Alt Text](https://github.com/kinghacker0/instaloader/blob/main/Screenshot.png)
 Now you can select options as per requirements by selecting any option from the list and downloaded posts, reels, caption text, etc. are available in the folder created on the present path with the target account username.
 
 # Disclaimer
