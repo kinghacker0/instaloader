@@ -1,4 +1,4 @@
-![Image Alt Text](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS5WBpXMAQvD5Gm5UQVgzpimdyuYMjto0t3hpmQUUvr8FNIfV_0PvMdP3TOyjj51ZFRlPmiP5xGbJmxkU1WfcNUrSGumuXAuEX8U47K_ZvUWVKPloXJ3Se3V0GHpkYolfxB6csO7kTJHBy_GNj5mCAkJtyMMlGP0FrBrBKVi3PRi1e4H0vE1honCuiaXI/s16000/Instaloader-kali-linux-hackersking.png)
+![Image Alt Text](https://github.com/kinghacker0/instaloader/blob/main/Instaloader-kali-linux-hackersking.png)
 
 # Instaloader
 This is a fully functional bash script of the Instagram data downloading tool Instaloader with the list of its functions like downloading profile pictures, story highlights, tagged posts, etc. All you need to have select any option and enter the username of the target account.
